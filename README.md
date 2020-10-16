@@ -227,7 +227,8 @@ Each group will have to attend the full presentation session where they will pre
 
 The presentations will be organized as follows:
 
-- 8 minutes for presentation of the work done, supported by slides, with a mandatory 2 minute live demo (also prepare a video, just in case there is a technical problem);
+- 8 minutes for presentation of the work done, supported by slides, with a mandatory 2 minute live demo  
+(also prepare a video of the demo, as backup, just in case there is a technical problem);
 - 7 minutes for questions and answers.
 
 It is highly recommended that each presentation includes:
@@ -278,7 +279,7 @@ The relevant dates for the project are shown in the following calendar (all date
 | 3. Write proposal          | Week of November 2nd<br />**Submit before 20:00 of the day after your lab session**<br />Lab on Monday, submit until Tuesday, November 3rd<br />Lab on Tuesday, submit until Wednesday, November 4th<br />Lab on Thursday, submit until Friday, November 6th<br />Lab on Friday, submit until Saturday, November 7th |
 | 4. Await approval          | Week of November 9th-13th |
 | 5. Develop project         | During the weeks of November 16th, November 23rd, November 30th, December 7th, articulated with other coursework |
-| 6. Prepare demonstration   | Start preparing once you have the intermediate version of the work.<br />Suggested week: November 23rd |
+| 6. Prepare demonstration   | Start preparing once you have the intermediate version of the work.<br />Suggested week: November 30th |
 | 7. Write report            | Update as you complete basic, intermediate and advanced versions.<br />Final revision: week of December 7th |
 | 8. Submit code and report  | **Saturday, December 12th, 17:00** |
 | 9. Enroll for presentation | Opens: Tuesday, December 8th<br />**Closes: Saturday, December 12th, 18:00** |
