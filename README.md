@@ -275,7 +275,7 @@ The relevant dates for the project are shown in the following calendar (all date
 | **Stage**                  | **Deadline**                                                                      |
 | ---------------------------|-----------------------------------------------------------------------------------|
 | 1. Assemble team           | On the labs, before Friday, October 9th |
-| 2. Pick topic              | Topic list published: Monday, October 19th<br />Form opens: Wednesday, October 21st, 17:00<br />**Closes: Friday, October 23rd, 17:00** |
+| 2. Pick topic              | Topic list published: Tuesday, October 20th<br />Form opens: Thursday, October 22nd, 13:00<br />**Closes: Friday, October 23rd, 17:00** |
 | 3. Write proposal          | Week of November 2nd<br />**Submit before 20:00 of the day after your lab session**<br />Lab on Monday, submit until Tuesday, November 3rd<br />Lab on Tuesday, submit until Wednesday, November 4th<br />Lab on Thursday, submit until Friday, November 6th<br />Lab on Friday, submit until Saturday, November 7th |
 | 4. Await approval          | Week of November 9th-13th |
 | 5. Develop project         | During the weeks of November 16th, November 23rd, November 30th, December 7th, articulated with other coursework |
