@@ -20,18 +20,18 @@ For any questions regarding this document, please contact:
 The SIRS (Network and Computer Security) course requires a practical project dealing with security solutions.  
 The whole process is organized in 10 sequential stages:
 
-| **Stage**                  |
-| ---------------------------|
-| 1. Assemble team           |
-| 2. Pick topic              |
-| 3. Write proposal          |
-| 4. Await approval          |
-| 5. Develop project         |
-| 6. Prepare demonstration   |
-| 7. Write report            |
-| 8. Submit code and report  |
-| 9. Enroll for presentation |
-| 10. Present and defend     |  
+| **Stage**                                                       |
+| ----------------------------------------------------------------|
+| [1. Assemble team](#21-assemble-team)                           |
+| [2. Pick topic](#22-pick-topic)                                 |
+| [3. Write proposal](#23-write-proposal)                         |
+| [4. Await approval](#24-await-approval)                         |
+| [5. Develop project](#25-develop-project)                       |
+| [6. Prepare demonstration](#26-prepare-demonstration)           |
+| [7. Write report](#27-write-report)                             |
+| [8. Submit code and report](#28-submit-code-and-report)         |
+| [9. Check presentation session](#29-check-presentation-session) |
+| [10. Present and defend](#210-present-and-defend)               |  
 
 <br />
 
@@ -207,16 +207,13 @@ IMPORTANT: the code archive and the report are submitted separately on the Féni
 - Existing tests and example files.
 
 
-## 2.9. Enroll for presentation
+## 2.9. Check presentation session
 
-IMPORTANT: the project presentations will occur on the dates following the submission deadline.  
-The link to make a reservation of the slot for the presentation will be made available during the final days of the project.
+The project presentations will occur on the dates following the submission deadline.  
+The presentation session calendar will be made available during the final days of the project.
 
-Each group should reserve a presentation slot using an electronic form. 
-Groups should register in their respective campus, preferably in the laboratory they are enrolled to. 
-To register, it is enough to add `CXX`; in one of the white cells (free slots), where C is A for Alameda, T for Tagus, and XX is the Fenix group number with two digits. 
-DO NOT overwrite already occupied slots. 
-Changes to the file are monitored and dishonest behavior will be subject to penalties.
+Each group is assigned to a session, in their respective campus, preferably in the time-slot of laboratory they are enrolled to.  
+If your group requires a change in the proposed slot, please contact faculty.
 
 
 ## 2.10. Present and defend
@@ -243,8 +240,13 @@ If necessary, a more detailed discussion will be scheduled with each group.
 
 ### 2.10.2. Presence
 
-The presentations are done by the whole group, in person, on campus, and are transmitted for a remote audience.
-Since this is a formal evaluation, the alternating odd/even week presence rule is overriden.
+The presentations are done by the whole group, in person, on campus, and are transmitted for a remote audience.  
+**Since this is a formal evaluation, the alternating odd/even week presence rule is overriden.**  
+Each group must attend from the beginning of their assigned session and remain for the duration of it.	
+
+Presenters need to be physically present in the lecture room.	 
+Attendants should connect to the Zoom of the session with their Name and Student number.
+Each student is expected to attend one full session beyond the one where s/he will present.
 
 ### 2.10.3. Presentation archive requirements
 
@@ -282,7 +284,7 @@ The relevant dates for the project are shown in the following calendar (all date
 | 6. Prepare demonstration   | Start preparing once you have the intermediate version of the work.<br />Suggested week: November 30th |
 | 7. Write report            | Update as you complete basic, intermediate and advanced versions.<br />Final revision: week of December 7th |
 | 8. Submit code and report  | **Saturday, December 12th, 17:00** |
-| 9. Enroll for presentation | Opens: Tuesday, December 8th<br />**Closes: Saturday, December 12th, 18:00** |
+| 9. Check presentation session | Opens: Wednesday, December 9th<br />**Changes close: Saturday, December 12th, 18:00** |
 | 10. Present and defend     | Sessions start Monday, December 14th and are expected to end on Friday, December 18th<br />**Submit slides and video link before 20:00 of the day after your presentation** |
 
 ----
