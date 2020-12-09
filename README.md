@@ -245,7 +245,7 @@ The presentations are done by the whole group, in person, on campus, and are tra
 Each group must attend from the beginning of their assigned session and remain for the duration of it.	
 
 Presenters need to be physically present in the lecture room.	 
-Attendants should connect to the Zoom of the session with their Name and Student number.
+Attendants should connect to the Zoom of the session with their IST login, so that Name and Student number can be properly registered.
 Each student is expected to attend one full session beyond the one where s/he will present.
 
 ### 2.10.3. Presentation archive requirements
