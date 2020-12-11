@@ -218,7 +218,9 @@ If your group requires a change in the proposed slot, please contact faculty.
 
 ## 2.10. Present and defend
 
-Each group will have to attend the full presentation session where they will present.
+Each group will have to attend the full presentation session where they will present.  
+The presentation slides must be in English and the presenters should also present in English.  
+For the discussion questions, students can answer in Portuguese.
 
 ### 2.10.1. Presentation outline
 
