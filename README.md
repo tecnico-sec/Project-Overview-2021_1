@@ -226,7 +226,7 @@ For the discussion questions, students can answer in Portuguese.
 
 The presentations will be organized as follows:
 
-- 8 minutes for presentation of the work done, supported by slides, with a mandatory 2 minute live demo  
+- 8 minutes for presentation of the work done, supported by slides, including a mandatory 2 minute live demo  
 (also prepare a video of the demo, as backup, just in case there is a technical problem);
 - 7 minutes for questions and answers.
 
